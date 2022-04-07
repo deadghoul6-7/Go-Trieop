@@ -395,13 +395,15 @@ body{
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
     transition-timing-function: linear;
-    transition: all 1s cubic-bezier(0.45, 0.05, 0.55, 0.95);
+    transition: all 1s linear;
     font-size: 15px;
     color: #FEFEFE;
     margin-left: 20px; 
 }
 .btn:hover{
-    border-radius: 0;   
+    color:#028073e7;
+    
+    
 }
 
 
