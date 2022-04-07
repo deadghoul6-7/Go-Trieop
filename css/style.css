@@ -395,7 +395,7 @@ body{
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
     transition-timing-function: linear;
-    transition: all 1.4s linear;
+    transition: all 0.9s linear;
     font-size: 15px;
     color: #FEFEFE;
     margin-left: 20px; 
